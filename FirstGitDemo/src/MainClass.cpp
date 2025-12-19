@@ -3,6 +3,7 @@
  *
  *  Created on: 19.12.2025
  *      Author: yannikwalz
+ *      Das ist mein erstes git Projekt
  */
 
 #include <iostream>
